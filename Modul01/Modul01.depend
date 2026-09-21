@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1789999293 source:d:\praktikumrpl\modul01\main.cpp
+	<iostream>
+
+1789999357 source:d:\praktikumrpl\modul01\variable.cpp
+	<iostream>
+
+1789999819 source:d:\praktikumrpl\modul01\operator.cpp
+	<iostream>
+
+1789999955 source:d:\praktikumrpl\modul01\kondisional.cpp
+	<iostream>
+
