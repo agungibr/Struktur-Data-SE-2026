@@ -32,7 +32,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="function.cpp" />
+		<Unit filename="kondisional.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="operator.cpp" />
+		<Unit filename="perulangan.cpp" />
+		<Unit filename="struct.cpp" />
+		<Unit filename="variable.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
