@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1791249733 source:d:\praktikumrpl\modul03\mahasiswa.cpp
+	<iostream>
+	"mahasiswa.h"
+
+1791249760 d:\praktikumrpl\modul03\mahasiswa.h
+
+1791249818 source:d:\praktikumrpl\modul03\main.cpp
+	<iostream>
+	"mahasiswa.h"
+
+1791250142 source:d:\praktikumrpl\modul03\pelajaran.cpp
+	<iostream>
+	"pelajaran.h"
+
+1791250157 d:\praktikumrpl\modul03\pelajaran.h
+	<string>
+
