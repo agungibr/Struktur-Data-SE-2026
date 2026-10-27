@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1792459164 source:d:\praktikumrpl\modul05\main.cpp
+	<iostream>
+	"singlylist.h"
+
+1792459122 d:\praktikumrpl\modul05\singlylist.h
+	<iostream>
+
+1792459151 source:d:\praktikumrpl\modul05\singlylist.cpp
+	"Singlylist.h"
+

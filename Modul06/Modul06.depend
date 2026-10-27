@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1793081205 source:d:\praktikumrpl\modul06\doublylist.cpp
+	"doublylist.h"
+
+1793081155 d:\praktikumrpl\modul06\doublylist.h
+	<iostream>
+
