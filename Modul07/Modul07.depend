@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1793667418 source:d:\praktikumrpl\modul07\stack_array.cpp
+	"stack_array.h"
+
+1793667401 d:\praktikumrpl\modul07\stack_array.h
+	<iostream>
+
+1793667487 source:d:\praktikumrpl\modul07\main.cpp
+	<iostream>
+	"stack_pointer.h"
+	"stack_array.h"
+
+1793668828 d:\praktikumrpl\modul07\stack_pointer.h
+	<iostream>
+
+1793668855 source:d:\praktikumrpl\modul07\stack_pointer.cpp
+	"stack_pointer.h"
+
